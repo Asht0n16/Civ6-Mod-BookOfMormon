@@ -2,20 +2,20 @@
 <Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
-    <Name>First Test Mod</Name>
+    <Name>The Book of Mormon</Name>
     <Guid>023ea09b-713c-44a7-9f47-d6ceb23d7fc5</Guid>
     <ProjectGuid>e7892513-cac0-4654-b3ab-d97963b8151d</ProjectGuid>
     <ModVersion>1</ModVersion>
     <Teaser>This example mod demonstrates how to add a new leader and civilization to the game.</Teaser>
     <Description>This example mod demonstrates how to add a new leader and civilization to the game.</Description>
-    <AffectsSavedGames>true</AffectsSavedGames>
+    <AffectsSavedGames>false</AffectsSavedGames>
     <SupportsSinglePlayer>true</SupportsSinglePlayer>
     <SupportsMultiplayer>true</SupportsMultiplayer>
     <SupportsHotSeat>true</SupportsHotSeat>
     <CompatibleVersions>
     </CompatibleVersions>
-    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="Gameplay"><Criteria>LeaderCriteria</Criteria><File>NewLeader_Felines.xml</File><File>NewLeader_JasperKitty.xml</File><File>NewLeader_LitterBox.xml</File></UpdateDatabase><UpdateText id="Text"><Criteria>LeaderCriteria</Criteria><File>NewLeader_ConfigText.xml</File><File>NewLeader_Text.xml</File></UpdateText><UpdateIcons id="Icons"><Criteria>LeaderCriteria</Criteria><File>NewLeader_Icons.xml</File></UpdateIcons><UpdateArt id="Art"><Criteria>LeaderCriteria</Criteria><File>(Mod Art Dependency File)</File></UpdateArt></InGameActions>]]></InGameActionData>
-    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="Config"><File>NewLeader_Config.xml</File></UpdateDatabase><UpdateText id="ConfigText"><File>NewLeader_ConfigText.xml</File></UpdateText><UpdateIcons id="ConfigIcons"><File>NewLeader_Icons.xml</File></UpdateIcons><UpdateArt id="ConfigArt"><File>(Mod Art Dependency File)</File></UpdateArt></FrontEndActions>]]></FrontEndActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="Gameplay"><Criteria>LeaderCriteria</Criteria><File>NewLeader_LitterBox.xml</File><File>Nephites_Civ.xml</File><File>Nephites_Nephi.xml</File></UpdateDatabase><UpdateText id="Text"><Criteria>LeaderCriteria</Criteria><File>Nephites_ConfigText.xml</File><File>Nephites_Text.xml</File></UpdateText><UpdateIcons id="Icons"><Criteria>LeaderCriteria</Criteria><File>Nephites_Icons.xml</File></UpdateIcons><UpdateArt id="Art"><Criteria>LeaderCriteria</Criteria><File>(Mod Art Dependency File)</File></UpdateArt></InGameActions>]]></InGameActionData>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="Config"><File>Nephites_Config.xml</File></UpdateDatabase><UpdateText id="ConfigText"><File>Nephites_ConfigText.xml</File></UpdateText><UpdateIcons id="ConfigIcons"><File>Nephites_Icons.xml</File></UpdateIcons><UpdateArt id="ConfigArt"><File>(Mod Art Dependency File)</File></UpdateArt></FrontEndActions>]]></FrontEndActionData>
     <ActionCriteriaData><![CDATA[<ActionCriteria><Criteria id="LeaderCriteria"><LeaderPlayable>StandardPlayers::LEADER_JASPER_KITTY</LeaderPlayable></Criteria></ActionCriteria>]]></ActionCriteriaData>
     <AssemblyName>Nephi</AssemblyName>
     <RootNamespace>Nephi</RootNamespace>
@@ -31,13 +31,13 @@
     <Folder Include="Artdefs\" />
     <Folder Include="Textures\" />
     <Folder Include="XLPs\" />
-    <Content Include="NewLeader_Config.xml" />
-    <Content Include="NewLeader_ConfigText.xml" />
-    <Content Include="NewLeader_Felines.xml" />
-    <Content Include="NewLeader_Icons.xml" />
-    <Content Include="NewLeader_JasperKitty.xml" />
+    <Content Include="Nephites_Config.xml" />
+    <Content Include="Nephites_ConfigText.xml" />
+    <Content Include="Nephites_Civ.xml" />
+    <Content Include="Nephites_Icons.xml" />
+    <Content Include="Nephites_Nephi.xml" />
     <Content Include="NewLeader_LitterBox.xml" />
-    <Content Include="NewLeader_Text.xml" />
+    <Content Include="Nephites_Text.xml" />
     <None Include="Textures\FALLBACK_NEUTRAL_JASPERKITTY.dds" />
     <None Include="Textures\FALLBACK_NEUTRAL_JASPERKITTY.tex" />
     <None Include="Textures\LEADER_JASPER_KITTY_NEUTRAL.dds" />
