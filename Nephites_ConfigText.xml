@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_CIVILIZATION_NEPHITE_NAME" Language="en_US">
+			<Text>The Nephites</Text>
+		</Row>
+		
+		<Row Tag="LOC_CIVILIZATION_NEPHITE_DESCRIPTION" Language="en_US">
+			<Text>The Majestic Felines</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_NEPHITE_ADJECTIVE" Language="en_US">
+			<Text>Nephite</Text>
+		</Row>
+		
+		<Row Tag="LOC_LEADER_NEPHI_NAME" Language="en_US">
+			<Text>Nephi</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_NEPHITE_NAME" Language="en_US">
+			<Text>The Promised Land</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_NEPHITE_DESCRIPTION" Language="en_US">
+			<Text>Tile yields are increased in cities where 70% of citizens are following the Nephite religion.</Text>
+		</Row>
+		
+		<Row Tag="LOC_TRAIT_LEADER_NEPHI_NAME" Language="en_US">
+			<Text>Obedience</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_NEPHI_DESCRIPTION" Language="en_US">
+			<Text>Production from mines, quarries, and lumber mills increased by 2.</Text>
+		</Row>
+
+		<Row Tag="LOC_BUILDING_LITTER_BOX_NAME" Language="en_US">
+			<Text>Litter Box</Text>
+		</Row>
+		
+		<Row Tag="LOC_BUILDING_LITTER_BOX_DESCRIPTION" Language="en_US">
+			<Text>The litter box is a unique building that only Felines get.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>
