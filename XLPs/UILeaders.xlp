@@ -10,8 +10,8 @@
 	<m_PackageName text="UILeaders"/>
 	<m_Entries>
 		<Element>
-			<m_EntryID text="LEADER_JASPER_KITTY_NEUTRAL"/>
-			<m_ObjectName text="LEADER_JASPER_KITTY_NEUTRAL"/>
+			<m_EntryID text="LEADER_NEPHI_NEUTRAL"/>
+			<m_ObjectName text="LEADER_NEPHI_NEUTRAL"/>
 		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>

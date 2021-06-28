@@ -11,78 +11,86 @@
 			<Text>Nephi, the fourth son of Lehi, is obedient to all the commandments of the Lord.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NEPHI_CHAPTER_DETAILED_BODY" Language="en_US">
-			<Text>Jasper kitty likes to hide in his fort and attack when others least expect it.  He is particularly skilled at tripping people.</Text>
+			<Text>Nephi's strict obedience inspires his people to be industrious and righteous.</Text>
 		</Row>
 		
 		<!-- Leader specific historical text. -->
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NEPHI_CHAPTER_HISTORY_PARA_1" Language="en_US">
-			<Text>Born in 2010, Jasper kitty grew to power at a young age...</Text>
+			<Text>Born in Jerusalem, Nephi's father, Lehi, took his entire family and some other followers into the wilderness
+			in 600 BC, shortly before Jerusalem was conquered by the Babylonians. After many years in the wilderness, a gruelling
+			voyage across the sea, and constant fighting with his older brothers, Laman and Lemuel, Nephi became a leader among
+			this brand new civilization.</Text>
 		</Row>
 
 		<!-- Civilization specific historical text. -->
 		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NEPHITES_CHAPTER_HISTORY_PARA_1" Language="en_US">
-			<Text>The felines have a rich history, but are too lazy to write about it.</Text>
+			<Text>The Nephite civilization began with Nephi, after he and his followers fled from his brothers, Laman and Lemuel,
+			around 600 BC. The Nephite rulers kept a careful record of all their dealings, which was summarized by Mormon around 
+			400 AD.</Text>
 		</Row>
 
 		<!-- Civlization Citizen Names -->
 		<Row Tag="LOC_CITIZEN_NEPHITE_MALE_1" Language="en_US">
-			<Text>Mittens</Text>
+			<Text>Samuel</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NEPHITE_MALE_2" Language="en_US">
-			<Text>Snookums</Text>
+			<Text>Lehi</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NEPHITE_MALE_3" Language="en_US">
-			<Text>Patches</Text>
+			<Text>Ammon</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NEPHITE_MALE_4" Language="en_US">
-			<Text>Tom</Text>
+			<Text>Alma</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NEPHITE_MALE_5" Language="en_US">
+			<Text>Moronihah</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NEPHITE_FEMALE_1" Language="en_US">
-			<Text>Miss Kitty</Text>
+			<Text>Sariah</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NEPHITE_FEMALE_2" Language="en_US">
-			<Text>Callie</Text>
+			<Text>Rebeccah</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NEPHITE_FEMALE_3" Language="en_US">
-			<Text>Tabby</Text>
+			<Text>Mariah</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NEPHITE_FEMALE_4" Language="en_US">
-			<Text>Whiskers</Text>
+			<Text>Lilith</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NEPHITE_FEMALE_5" Language="en_US">
-			<Text>Sally Soft Paws</Text>
+			<Text>Rachel</Text>
 		</Row>
 
 		<!-- Civilization City Names-->
 		<Row Tag="LOC_CIVLIZATION_NEPHITE_CITY_1" Language="en_US">
-			<Text>Pawtimore</Text>
+			<Text>Zarahemla</Text>
 		</Row>
 		<Row Tag="LOC_CIVLIZATION_NEPHITE_CITY_2" Language="en_US">
-			<Text>City</Text>
+			<Text>Bountiful</Text>
 		</Row>
 		<Row Tag="LOC_CIVLIZATION_NEPHITE_CITY_3" Language="en_US">
-			<Text>City</Text>
+			<Text>Ammonihah</Text>
 		</Row>
 		<Row Tag="LOC_CIVLIZATION_NEPHITE_CITY_4" Language="en_US">
-			<Text>City</Text>
+			<Text>Moroni</Text>
 		</Row>
 		<Row Tag="LOC_CIVLIZATION_NEPHITE_CITY_5" Language="en_US">
-			<Text>City</Text>
+			<Text>Noah</Text>
 		</Row>
 		<Row Tag="LOC_CIVLIZATION_NEPHITE_CITY_6" Language="en_US">
-			<Text>City</Text>
+			<Text>Aaron</Text>
 		</Row>
 		<Row Tag="LOC_CIVLIZATION_NEPHITE_CITY_7" Language="en_US">
-			<Text>City</Text>
+			<Text>Nephihah</Text>
 		</Row>
 		<Row Tag="LOC_CIVLIZATION_NEPHITE_CITY_8" Language="en_US">
-			<Text>City</Text>
+			<Text>Morianton</Text>
 		</Row>
 		<Row Tag="LOC_CIVLIZATION_NEPHITE_CITY_9" Language="en_US">
-			<Text>City</Text>
+			<Text>Lehi</Text>
 		</Row>
 		<Row Tag="LOC_CIVLIZATION_NEPHITE_CITY_10" Language="en_US">
-			<Text>City</Text>
+			<Text>Gilgal</Text>
 		</Row>
 
 		<!--Civilization Factoids -->
@@ -100,15 +108,17 @@
     
     <!-- Leader Dialog -->
     <Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_NEPHI_ANY" Language="en_US">
-      <Text>Mrow! I am the mighty Jasper Kitty.  Pet me.</Text>
+      <Text>Greetings! I am Nephi, son of Lehi. Behold, my people have travelled far and suffered much. It is good to meet you.</Text>
     </Row>
 
     <Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_NEPHI_ANY" Language="en_US">
-      <Text>I haz a box.  Wanna see?</Text>
+      <Text>The Lord has blessed us exceedingly and we have established many cities in this promised land. Would you care to share 
+	  in our blessings?</Text>
     </Row>
 
     <Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_NEPHI_ANY" Language="en_US">
-      <Text>Let me rub my face on all of your stuff so that it will be mine.</Text>
+      <Text>The Lord has blessed us exceedingly and we have established many cities in this promised land. Please, come to our temple 
+	  and learn more of the blessings the Lord has in store.</Text>
     </Row>
 	</LocalizedText>
 </GameData>
