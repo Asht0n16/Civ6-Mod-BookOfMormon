@@ -5,12 +5,14 @@ These notes are mostly just ideas for now.
 ## Civilizations and Leaders
 
 #### Nephites
-The Promised Land. Having a strong religion will give production and yeild boosts. If their religion is weak, they will lose the production bonuses and yeild boosts, but they will gain some war related bonuses.
+The Promised Land. Having a strong religion will give production and yeild boosts in each city. If their religion is weak (Nephite religion isn't majority or faith output is low), they will lose the production bonuses and yeild boosts, but they will gain some bonuses towards amenities and gold. +50% production towards Holy Sites.
 - Nephi - "I will go and do the things which the Lord hath commanded."
-  - Nephi's strong leadership leads to enhanced production (like Germany).
+  - Nephi's strong leadership allows builders to be produced with 25% less production and gives them +2 build actions.
+  - Nephi can build Boats of Curious Workmanship that can cross ocean tiles earlier.
+  - Newly settled cities automatically start with the Nephite majority religion.
 
 - Mosiah 
-  - Last Nephite King. Culture bonuses
+  - Last Nephite King. Culture and religion bonuses.
 
 - Captain Moroni - "In memory of our God, our religion, and freedom, and our peace, our wives, and our children."
   - All new cities that are founded receive a free ancient wall. Production costs for walls and encampments districts are reduced.
