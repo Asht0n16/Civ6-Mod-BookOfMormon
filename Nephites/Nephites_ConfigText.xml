@@ -6,7 +6,7 @@
 		</Row>
 		
 		<Row Tag="LOC_CIVILIZATION_NEPHITE_DESCRIPTION" Language="en_US">
-			<Text>The Majestic Felines</Text>
+			<Text>The People of Nephi</Text>
 		</Row>
 
 		<Row Tag="LOC_CIVILIZATION_NEPHITE_ADJECTIVE" Language="en_US">
@@ -21,14 +21,16 @@
 			<Text>The Promised Land</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_NEPHITE_DESCRIPTION" Language="en_US">
-			<Text>Tile yields are increased in cities where 70% of citizens are following the Nephite religion.</Text>
+			<Text>Tile yields are increased by 1 each in cities where 70% of citizens are following the Nephite religion and the Faith 
+			output of the city at least equals the number of citizens. If the religion is not strong, cities receive +1 Amenity and +4 
+			gold for every 2 luxury items.</Text>
 		</Row>
 		
 		<Row Tag="LOC_TRAIT_LEADER_NEPHI_NAME" Language="en_US">
-			<Text>Obedience</Text>
+			<Text>Strict Obedience</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_NEPHI_DESCRIPTION" Language="en_US">
-			<Text>Production from mines, quarries, and lumber mills increased by 2.</Text>
+			<Text>Nephi's strong leadership allows builders to be produced with 25% less production and gives them +2 build actions.</Text>
 		</Row>
 
 		<Row Tag="LOC_BUILDING_LITTER_BOX_NAME" Language="en_US">
