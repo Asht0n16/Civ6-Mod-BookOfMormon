@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- NewLeader_LitterBox -->
+<!-- Author: ashto -->
+<!-- DateCreated: 6/28/2021 6:12:40 PM -->
 <GameData>
 	<Types>
 		<Row Type="BUILDING_LITTER_BOX" Kind="KIND_BUILDING" />

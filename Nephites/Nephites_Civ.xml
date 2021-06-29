@@ -16,8 +16,8 @@
 	</Civilizations>
 
 	<CivilizationLeaders>
-		<!--<Row CivilizationType="CIVILIZATION_NEPHITE" LeaderType="LEADER_JASPER_KITTY" CapitalName="LOC_CIVILIZATION_NEPHITE_CITY_1" />-->
 		<Row CivilizationType="CIVILIZATION_NEPHITE" LeaderType="LEADER_NEPHI" CapitalName="LOC_CIVILIZATION_NEPHITE_CITY_1" />
+		<!--<Row CivilizationType="CIVILIZATION_NEPHITE" LeaderType="LEADER_MORONI" CapitalName="LOC_CIVILIZATION_NEPHITE_CITY_2" />-->
 	</CivilizationLeaders>
 
 	<CivilizationCitizenNames>

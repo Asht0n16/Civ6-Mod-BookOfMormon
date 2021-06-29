@@ -2,7 +2,23 @@
 <GameData>
 	<Players>
 		<Row>
-			<Domain>StandardPlayers</Domain>
+			<Domain>Players:StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_NEPHITE</CivilizationType>
+			<LeaderType>LEADER_NEPHI</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_NEPHITE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_NEPHITE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_NEPHI_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_NEPHI</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_NEPHITE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_NEPHITE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_NEPHITE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LEADER_NEPHI_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LEADER_NEPHI_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_NEPHI</LeaderAbilityIcon>
+			<Portrait>LEADER_NEPHI_NEUTRAL</Portrait>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
 			<CivilizationType>CIVILIZATION_NEPHITE</CivilizationType>
 			<LeaderType>LEADER_NEPHI</LeaderType>
 			<CivilizationName>LOC_CIVILIZATION_NEPHITE_NAME</CivilizationName>
@@ -20,7 +36,7 @@
 	</Players>
 	<PlayerItems>
 		<Row>
-			<Domain>StandardPlayers</Domain>
+			<Domain>Players:StandardPlayers</Domain>
 			<CivilizationType>CIVILIZATION_NEPHITE</CivilizationType>
 			<LeaderType>LEADER_NEPHI</LeaderType>
 			<Type>BUILDING_LITTER_BOX</Type>

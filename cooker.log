@@ -5,9 +5,9 @@ C:\Users\ashto\Documents\Firaxis ModBuddy\Civilization VI\Nephi\Nephi\XLPs\UILea
 Opened output file: C:\Users\ashto\Documents\My Games\Sid Meier's Civilization VI\Mods\BookOfMormon\Platforms\MacOS\BLPs/UILeaders.blp    For XLP: 'C:\Users\ashto\Documents\Firaxis ModBuddy\Civilization VI\Nephi\Nephi\XLPs\UILeaders.xlp'
 Could not load digest key: ''.  Using mod key to sign BLP.
 Starting 'UILeaders'
-Load finished for: 'UILeaders' in 0.004 seconds
-Cook finished for: 'UILeaders' in 0.024 seconds
-Disk write finished for: 'UILeaders' in 0.054 seconds
-Cleanup finished for: 'UILeaders' in 0.000 seconds
+Load finished for: 'UILeaders' in 0.005 seconds
+Cook finished for: 'UILeaders' in 0.041 seconds
+Disk write finished for: 'UILeaders' in 0.133 seconds
+Cleanup finished for: 'UILeaders' in 0.001 seconds
 XLP cook completed with success.
-Cook completed in 0.099 seconds
+Cook completed in 0.216 seconds
