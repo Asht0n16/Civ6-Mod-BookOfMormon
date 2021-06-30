@@ -3,5 +3,46 @@
 <!-- Author: ashto -->
 <!-- DateCreated: 6/28/2021 7:30:40 PM -->
 <GameData>
-
+	<Types>
+		<Row Type="UNIT_CURIOUS_BOAT" Kind="KIND_UNIT"/>
+	</Types>
+	<Units>
+		<Row UnitType="UNIT_CURIOUS_BOAT"
+			 Cost="100"
+			 Maintenance="1"
+			 BaseMoves="4"
+			 BaseSightRange="2"
+			 ZoneOfControl="true"
+			 Domain="DOMAIN_SEA"
+			 Combat="35"
+			 FormationClass="FORMATION_CLASS_NAVAL"
+			 PromotionClass="PROMOTION_CLASS_NAVAL_MELEE"
+			 AdvisorType="ADVISOR_GENERIC"
+			 Name="LOC_UNIT_CURIOUS_BOAT_NAME"
+			 Description="LOC_UNIT_CURIOUS_BOAT_DESCRIPTION"
+			 PurchaseYield="YIELD_GOLD"
+			 PseudoYieldType="PSEUDOYIELD_UNIT_NAVAL_COMBAT"
+			 MandatoryObsoleteTech="TECH_ELECTRICITY" 
+			 PrereqTech="TECH_SAILING"
+			 FoundCity="1"
+			 TrackReligion="1"/>
+			<!--PopulationCost="1"-->
+			<!--TraitType="TRAIT_LEADER_UNIT_NORWEGIAN_LONGSHIP" -->
+	</Units>
+	<UnitReplaces>
+		<Row CivUniqueUnitType="UNIT_CURIOUS_BOAT" ReplacesUnitType="UNIT_GALLEY"/>
+	</UnitReplaces>
+	<UnitAiInfos>
+		<Row UnitType="UNIT_CURIOUS_BOAT" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_CURIOUS_BOAT" AiType="UNITAI_EXPLORE"/>
+		<Row UnitType="UNIT_CURIOUS_BOAT" AiType="UNITTYPE_MELEE"/>
+		<Row UnitType="UNIT_CURIOUS_BOAT" AiType="UNITTYPE_NAVAL"/>
+	</UnitAiInfos>
+	<TypeTags>
+		<Row Type="UNIT_CURIOUS_BOAT" Tag="CLASS_LONGSHIP"/>
+		<Row Type="UNIT_CURIOUS_BOAT" Tag="CLASS_NAVAL_MELEE"/>
+	</TypeTags>
+	<UnitUpgrades>
+		<Row Unit="UNIT_CURIOUS_BOAT" UpgradeUnit="UNIT_CARAVEL"/>
+	</UnitUpgrades>
 </GameData>

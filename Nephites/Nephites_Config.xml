@@ -39,10 +39,10 @@
 			<Domain>Players:StandardPlayers</Domain>
 			<CivilizationType>CIVILIZATION_NEPHITE</CivilizationType>
 			<LeaderType>LEADER_NEPHI</LeaderType>
-			<Type>BUILDING_LITTER_BOX</Type>
-			<Name>LOC_BUILDING_LITTER_BOX_NAME</Name>
-			<Description>LOC_BUILDING_LITTER_BOX_DESCRIPTION</Description>
-			<Icon>ICON_BUILDING_LITTER_BOX</Icon>
+			<Type>UNIT_CURIOUS_BOAT</Type>
+			<Name>LOC_UNIT_CURIOUS_BOAT_NAME</Name>
+			<Description>LOC_UNIT_CURIOUS_BOAT_DESCRIPTION</Description>
+			<Icon>ICON_UNIT_CURIOUS_BOAT</Icon>
 			<SortIndex>10</SortIndex>
 		</Row>
 	</PlayerItems>

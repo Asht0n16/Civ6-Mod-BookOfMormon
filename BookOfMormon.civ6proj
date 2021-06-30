@@ -14,7 +14,7 @@
     <SupportsHotSeat>true</SupportsHotSeat>
     <CompatibleVersions>
     </CompatibleVersions>
-    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="Gameplay"><Criteria>LeaderCriteria</Criteria><File>NewLeader_LitterBox.xml</File><File>Nephites/Nephites_Civ.xml</File><File>Nephites/Nephi/Nephites_Nephi.xml</File></UpdateDatabase><UpdateText id="Text"><Criteria>LeaderCriteria</Criteria><File>Nephites/Nephites_ConfigText.xml</File><File>Nephites/Nephites_Text.xml</File></UpdateText><UpdateIcons id="Icons"><Criteria>LeaderCriteria</Criteria><File>Nephites/Nephites_Icons.xml</File></UpdateIcons><UpdateArt id="Art"><Criteria>LeaderCriteria</Criteria><File>(Mod Art Dependency File)</File></UpdateArt></InGameActions>]]></InGameActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="Gameplay"><Criteria>LeaderCriteria</Criteria><File>Nephites/Nephites_Civ.xml</File><File>Nephites/Nephi/Nephites_Nephi.xml</File><File>Nephites/Nephi/Nephi_CuriousBoat.xml</File></UpdateDatabase><UpdateText id="Text"><Criteria>LeaderCriteria</Criteria><File>Nephites/Nephites_ConfigText.xml</File><File>Nephites/Nephites_Text.xml</File><File>Nephites/Nephi/Nephi_Text.xml</File></UpdateText><UpdateIcons id="Icons"><Criteria>LeaderCriteria</Criteria><File>Nephites/Nephites_Icons.xml</File></UpdateIcons><UpdateArt id="Art"><Criteria>LeaderCriteria</Criteria><File>(Mod Art Dependency File)</File></UpdateArt></InGameActions>]]></InGameActionData>
     <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="Config"><File>Nephites/Nephites_Config.xml</File></UpdateDatabase><UpdateText id="ConfigText"><File>Nephites/Nephites_ConfigText.xml</File></UpdateText><UpdateIcons id="ConfigIcons"><File>Nephites/Nephites_Icons.xml</File></UpdateIcons><UpdateArt id="ConfigArt"><File>(Mod Art Dependency File)</File></UpdateArt></FrontEndActions>]]></FrontEndActionData>
     <ActionCriteriaData><![CDATA[<ActionCriteria><Criteria id="LeaderCriteria"><LeaderPlayable>StandardPlayers::LEADER_JASPER_KITTY</LeaderPlayable></Criteria></ActionCriteria>]]></ActionCriteriaData>
     <AssemblyName>Nephi</AssemblyName>
@@ -23,7 +23,9 @@
     <ModProperties>
       <CustomProperties xmlns="" />
     </ModProperties>
-    <AssociationData><![CDATA[<Associations />]]></AssociationData>
+    <AssociationData><![CDATA[<Associations>
+  <Reference type="Dlc" title="Expansion: Gathering Storm" id="4873eb62-8ccc-4574-b784-dda455e74e68" />
+</Associations>]]></AssociationData>
     <Homepage>https://github.com/Asht0n16/Civ6-Mod-BookOfMormon</Homepage>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
@@ -33,7 +35,7 @@
     <Content Include="Nephites\Nephi\Nephi_CuriousBoat.xml">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="NewLeader_LitterBox.xml">
+    <Content Include="Nephites\Nephi\Nephi_Text.xml">
       <SubType>Content</SubType>
     </Content>
     <Folder Include="Artdefs\" />

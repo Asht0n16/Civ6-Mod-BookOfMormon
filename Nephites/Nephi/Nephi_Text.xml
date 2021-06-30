@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Nephi_Text -->
+<!-- Author: ashto -->
+<!-- DateCreated: 6/29/2021 6:49:29 PM -->
+<GameData>
+	<LocalizedText>
+		<!-- Unit Text -->
+		<Row Tag="LOC_UNIT_CURIOUS_BOAT_NAME" Language="en_US">
+			<Text>Boat of Curious Workmanship</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_CURIOUS_BOAT_DESCRIPTION" Language="en_US">
+			<Text>Can sail across ocean tiles as once Shipbuilding is researched. Acts as a settler that can 
+			found a city on any coastal tile.</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CURIOUS_BOAT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>"The Lord did show me from time to time after what manner I should work the timbers of the ship.
+			Now I, Nephi, did not work the timbers after the manner which was learned by men ... but I did build it
+			after the manner which the Lord had shown unto me."</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

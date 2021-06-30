@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<!-- Pedia text (historical context) about the new building. -->
-		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_LITTER_BOX_CHAPTER_HISTORY_PARA_1" Language="en_US">
-			<Text>I'm not going to write the historical context about the litter box...</Text>
-		</Row>
-
 		<!-- Leader specific pedia text. -->
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NEPHI_CHAPTER_CAPSULE_BODY" Language="en_US">
 			<Text>Nephi, the fourth son of Lehi, is obedient to all the commandments of the Lord.</Text>
@@ -106,19 +101,22 @@
 			<Text>I will go and do the things which the Lord hath commanded.</Text>
 		</Row>
     
-    <!-- Leader Dialog -->
-    <Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_NEPHI_ANY" Language="en_US">
-      <Text>Greetings! I am Nephi, son of Lehi. Behold, my people have travelled far and suffered much. It is good to meet you.</Text>
-    </Row>
+		<!-- Leader Dialog -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_NEPHI_ANY" Language="en_US">
+		  <Text>Greetings! I am Nephi, son of Lehi. Behold, my people have travelled far and suffered much. It is good to meet you.</Text>
+		</Row>
 
-    <Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_NEPHI_ANY" Language="en_US">
-      <Text>The Lord has blessed us exceedingly and we have established many cities in this promised land. Would you care to share 
-	  in our blessings?</Text>
-    </Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_NEPHI_ANY" Language="en_US">
+		  <Text>The Lord has blessed us exceedingly and we have established many cities in this promised land. Would you care to share 
+		  in our blessings?</Text>
+		</Row>
 
-    <Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_NEPHI_ANY" Language="en_US">
-      <Text>The Lord has blessed us exceedingly and we have established many cities in this promised land. Please, come to our temple 
-	  and learn more of the blessings the Lord has in store.</Text>
-    </Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_NEPHI_ANY" Language="en_US">
+		  <Text>The Lord has blessed us exceedingly and we have established many cities in this promised land. Please, come to our temple 
+		  and learn more of the blessings the Lord has in store.</Text>
+		</Row>
+		
+		<!--Add all dialogue-->
+
 	</LocalizedText>
 </GameData>
