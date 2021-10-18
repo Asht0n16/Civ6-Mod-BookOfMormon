@@ -12,7 +12,7 @@ The Promised Land. Having a strong religion will give production and yeild boost
   - Newly settled cities automatically start with the Nephite majority religion.
 
 - Mosiah 
-  - Last Nephite King. Culture and religion bonuses.
+  - Last Nephite King. Culture and religion bonuses? Easier to build Government district or get cheif judges (governors)?
 
 - Captain Moroni - "In memory of our God, our religion, and freedom, and our peace, our wives, and our children."
   - All new cities that are founded receive a free ancient wall. Production costs for walls and encampments districts are reduced.
