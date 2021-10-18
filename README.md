@@ -18,7 +18,9 @@ The Promised Land. Having a strong religion will give production and yeild boost
   - All new cities that are founded receive a free ancient wall. Production costs for walls and encampments districts are reduced.
 
 - Gadianton
-  - Gadianton is unable to form a religion, thus losing any Nephite bonuses for a strong religion. Luxury goods provide extra gold and culture.
+  - Gadianton is unable to form a religion, thus losing any Nephite bonuses for a strong religion. 
+  - Luxury goods provide extra gold and culture.
+  - Extra gold for pillaging and defeating enemy units.
 
 - Mormon
   - Historian General. Science bonuses and a unique unit?
