@@ -1,6 +1,6 @@
 # Civ6-Mod-BookOfMormon
 Civilization VI mod that allows players to play as civilizations and leaders from the Book of Mormon!
-These notes are mostly just ideas for now.
+These notes are mostly just ideas for now. If anyone happens to read this, comments are welcome!
 
 ## Civilizations and Leaders
 
